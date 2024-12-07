@@ -1,4 +1,4 @@
 export const resumeData = {
-  url: "/Ashwin-Resume.pdf",
-  previewUrl: "/Ashwin-Resume-IMG.jpg",
+  url: "/Portfolio/Ashwin-Resume.pdf",
+  previewUrl: "/Portfolio/Ashwin-Resume-IMG.jpg",
 };

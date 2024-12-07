@@ -5,7 +5,7 @@ export const projects = [
     technologies: ["React", "TypeScript", "Vite", "Tailwind CSS", "Axios"],
     githubLink: "https://github.com/Ashwinkumar354/CurrenSwift",
     liveDemo: "https://ashwinkumar354.github.io/CurrenSwift/",
-    image: "/CurrenSwi.png"
+    image: "/Portfolio/CurrenSwi.png"
   },
   {
     title: "Portfolio Website",
@@ -13,6 +13,6 @@ export const projects = [
     technologies: ["React", "TypeScript", "Tailwind CSS"],
     githubLink: "https://github.com/Ashwinkumar354/Portfolio",
     liveDemo: "https://ashwinkumar354.github.io/Portfolio/",
-    image: "/PortF.png"
+    image: "/Portfolio/PortF.png"
   }
 ];
